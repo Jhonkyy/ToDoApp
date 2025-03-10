@@ -1,4 +1,3 @@
-# TODO: Add code here
 
 class Todo:
     def __init__(self, code_id: int, title: str, description: str):
